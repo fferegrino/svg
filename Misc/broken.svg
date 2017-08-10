@@ -1,0 +1,21 @@
+<svg width="151" height="151" viewBox="0 0 151 151" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    broken
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#FFF" d="M31 23h72l18 18v88H31"/>
+    <path fill="#BFC2B9" d="M39 31h58v22h16v30H85v22H54l.018 15H39"/>
+    <path d="M62 61h14v7H62v-7zm14-15h7v15h-7V46z" fill="#000"/>
+    <path d="M62 54h7v-7h-7v-7h14v21H55V47h7v7z" fill="#429441"/>
+    <path fill="#4CE947" d="M62 47h7v7h-7z"/>
+    <path d="M85 91h14v7H85v-7zm21-21h7v14h-7V70zm-7 14h7v7h-7v-7z" fill="#000"/>
+    <path d="M85 70h13.998L99 91H85V70zm14 0h7v14h-7V70z" fill="#0F00FC"/>
+    <path fill="#4DDFE6" d="M92 77h7v7h-7z"/>
+    <g>
+      <path d="M48 105h21v8H48v-8zm21-7h7v7h-7v-7zm-7-7h7v7h-7v-7zm-7-7h7v7h-7v-7zm-7-7h7v7h-7v-7z" fill="#FC0400"/>
+      <path d="M62 98h7v7h-7v-7zm-7-7h7v14h-7V91zm-7-7h7v21h-7V84z" fill="#E645DA"/>
+    </g>
+    <path d="M107 114V98h6v22H91v-6h16zm20-64v18h-6V53H97v-6h30v3zm-6 79V91h6v44H84v-6h37zm-90 0h8v6H25V17h6v112zm0-112h66v6H31v-6z" fill="#000"/>
+    <path d="M121 41h6v6h-6v-6zm-6-6h6v6h-6v-6zm-6-6h6v6h-6v-6zm-6-6h6v6h-6v-6zm-6-6h6v30h-6V17z" fill="#808082"/>
+  </g>
+</svg>
